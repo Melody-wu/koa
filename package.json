@@ -1,0 +1,14 @@
+{
+    "name": "ice-koa-utils",
+    "version": "1.0.0",
+    "description": "json转化,url转化工具库",
+    "main": "index.js",
+    "dependencies": {
+        "koa": "^2.13.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "wml",
+    "license": "ISC"
+}
